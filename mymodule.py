@@ -1,1 +1,1 @@
-print("ne module")
+print("new module")
